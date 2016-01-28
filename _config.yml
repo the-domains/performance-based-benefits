@@ -1,0 +1,28 @@
+name: Performance based benefits
+favicon: null
+layout_spectrum: 0.4878139141947031
+typography_spectrum: 0.9066780572757125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8493277314119041
+  lightness: 0.8672613005619496
+  saturation: 0.46928917965851724
+  rhythmicContrast: 0.4693932437803596
+purpose: []
